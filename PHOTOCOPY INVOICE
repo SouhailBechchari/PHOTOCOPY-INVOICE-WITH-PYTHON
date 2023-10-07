@@ -1,5 +1,5 @@
 
-n = int(input("Entrez le nombre de photocopies effectuées : "))
+n = int(input("Entrez le nombre de photocopies effectuÃ©es : "))
 facture = 0.0
 if n <= 10:
     facture = n * 0.30
